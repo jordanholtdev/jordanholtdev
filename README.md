@@ -9,5 +9,6 @@ My name is Jordan Holt. I'm JavaScript enthusiast, front-end developer and blogg
 
 #### 📫 Get in touch
 
-Personal blog: [blog.jordanholt.dev](https://blog.jordanholt.dev/)
-Dev.to: [dev.to/jordanholtdev](https://dev.to/jordanholtdev)
+* ✍ Personal blog: [blog.jordanholt.dev](https://blog.jordanholt.dev/)
+* 💻 Dev.to: [dev.to/jordanholtdev](https://dev.to/jordanholtdev)
+* 🐤 Twitter: [twitter.com/jordanholtdev](https://twitter.com/jordanholtdev)
