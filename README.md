@@ -4,7 +4,7 @@
 **jordanholtdev/jordanholtdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Jordan Holt. I'm JavaScript enthusiast, front-end developer and blogger. I have a passion for learning and solving problems with JavaScript. 
+My name is Jordan. I'm JavaScript enthusiast, and IT professional. I enjoy learning and solving problems. 
 
 
 #### 📫 Get in touch
